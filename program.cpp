@@ -45,6 +45,7 @@ struct Stack {
 };
 
 int main(){
+    Stack stack;
     Stack stack1;
     Stack stack2;
     stack1.init(4);
